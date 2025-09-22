@@ -1,6 +1,6 @@
  Hi there 👋, I'm Pratham Dhanawade
 
-![Data Science Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)
+![Data Science Banner](samurai-3840x2161-9868.jpg)
 
 ## 🚀 Data Analyst & Scientist | Turning Data Into Insights
 
