@@ -1,10 +1,10 @@
-## Hi there 👋, I'm Pratham Dhanawade
+ Hi there 👋, I'm Pratham Dhanawade
 
 ![Data Science Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)
 
 ## 🚀 Data Analyst & Scientist | Turning Data Into Insights
 
-Welcome to my GitHub profile! I'm Pratham Dhanawade, a passionate **Data Analyst and Scientist** dedicated to transforming raw data into actionable intelligence. With a keen eye for detail and a love for solving complex problems, I specialize in exploratory analysis, predictive modeling, and data visualization.
+Welcome to my GitHub profile! I'm Pratham Dhanawade, a **Computer Engineering graduate** from Mumbai University with hands-on experience in **machine learning, web APIs, satellite image analysis, and Power BI dashboards**. I specialize in Python, TensorFlow, Flask, and data visualization—and I'm seeking roles in data science and software development.
 
 ---
 
@@ -12,20 +12,24 @@ Welcome to my GitHub profile! I'm Pratham Dhanawade, a passionate **Data Analyst
 
 - 📊 **Expertise:**  
   - Data Analysis & Exploration  
-  - Statistical Modeling  
-  - Machine Learning  
-  - Data Visualization  
-  - Business Intelligence
+  - Statistical & Predictive Modeling  
+  - Machine Learning & Deep Learning  
+  - Data Visualization & Business Intelligence  
+  - Web APIs
 
 - 🛠️ **Tech Stack:**  
-  - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
-  - R (Tidyverse, ggplot2)  
-  - SQL  
-  - Power BI, Tableau  
-  - Jupyter Notebooks
+  - Python (Pandas, NumPy, Scikit-learn, TensorFlow, Flask, Matplotlib, Seaborn)  
+  - SQL, C  
+  - Power BI, Tableau, MS Excel  
+  - Node.js, RESTful APIs  
+  - MySQL, PostgreSQL  
+  - HTML, CSS  
+  - Git, GitHub
 
 - 🎓 **Education:**  
-  - [Your Degree & University]
+  - B.E. Computer Engineering, Mumbai University (Terna Engineering College), CGPA: 6.96 / 10
+  - HSC, Science (VPM’s B.N. Bandodkar College of Science, Thane, 82.33%)
+  - SSC (Shree Mavli Mandal High School, Thane, 79.00%)
 
 - 🌟 **Values:**  
   - Curiosity-driven problem solving  
@@ -39,30 +43,48 @@ Welcome to my GitHub profile! I'm Pratham Dhanawade, a passionate **Data Analyst
 - **Data Storytelling:** Presenting findings in a clear, compelling way to drive strategic decisions.
 - **Predictive Analytics:** Building models that forecast trends and outcomes.
 - **Business Intelligence:** Creating dashboards that empower organizations to make data-driven choices.
+- **Web APIs:** Building RESTful interfaces for data projects.
 
 ---
 
 ### 📈 Featured Projects
 
-- **Customer Segmentation using Machine Learning:**  
-  [Link to repo/project]  
-  Uncovered actionable customer clusters for a retail brand, boosting targeted marketing efforts.
+- **Movie Recommendation Website:**  
+  Developed a RESTful API with Node.js to manage, clean, and analyze movie/user data. Integrated The Movie Database API for recommendations, implemented OAuth/JWT for secure access, and designed data cleaning pipelines.
 
-- **Sales Forecasting Dashboard:**  
-  [Link to repo/project]  
-  Developed an interactive dashboard in Power BI to visualize and predict monthly sales.
+- **Sign Language to Speech Conversion Website:**  
+  Built a gesture-recognition ML model using Python and TensorFlow, implemented multilingual text-to-speech, and created a web interface to convert gestures into spoken output.
 
-- **NLP for Sentiment Analysis:**  
-  [Link to repo/project]  
-  Built an end-to-end pipeline for analyzing product reviews using Python and Scikit-learn.
+- **Disaster Destruction-Level Prediction (Satellite Imagery):**  
+  Created a TensorFlow model to predict damage levels from satellite images, served predictions via Flask, and processed imagery to assist disaster response.
+
+- **Power BI Dashboards for Fleet Management:**  
+  Built interactive Power BI dashboards to visualize vehicle performance, maintenance schedules, and operational costs, backed by a Flask service for data ingestion and transformation.
+
+---
+
+### 📜 Certification
+
+- **Advance Diploma in Data Science and Data Analytics**  
+  Squad Infotech, Thane  
+  [Certificate Link](#)
+
+---
+
+### 🌐 Languages
+
+- Hindi
+- English
+- Marathi
 
 ---
 
 ### 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/prathamdhanawade/)
-- [Twitter](https://twitter.com/pratham_dhanawade)
-- [Portfolio](https://your-portfolio-url.com)
+- [LinkedIn](https://linkedin.com/in/prathamdhanawade)
+- [GitHub](https://github.com/PrathamDhanawade)
+- Email: dhanawadepratham@gmail.com
+- Location: Thane (W), Maharashtra, India
 
 ---
 
@@ -79,3 +101,4 @@ I'm always open to new challenges and collaborations. If you're interested in wo
 ---
 
 > **"Data is the new oil, but insight is the engine."**
+
