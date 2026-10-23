@@ -1,7 +1,3 @@
- Hi there 👋, I'm Pratham Dhanawade
-
-<![Data Science Banner](japanese-artwork-8-bit-3840x2160-21386.jpg)>
-
 ### Hi, I'm Pratham Dhanawade 👋
 
 **AI/ML Engineer · Backend & AI Systems · Generative AI**
