@@ -2,103 +2,96 @@
 
 ![Data Science Banner](japanese-artwork-8-bit-3840x2160-21386.jpg)
 
-## 🚀 Data Analyst & Scientist | Turning Data Into Insights
+# Hi, I'm Pratham Dhanawade 👋
 
-Welcome to my GitHub profile! I'm Pratham Dhanawade, a **Computer Engineering graduate** from Mumbai University with hands-on experience in **machine learning, web APIs, satellite image analysis, and Power BI dashboards**. I specialize in Python, TensorFlow, Flask, and data visualization—and I'm seeking roles in data science and software development.
+**AI/ML Engineer · Backend & AI Systems · Generative AI**
 
----
+Computer Engineering graduate (Mumbai University) from Thane, Maharashtra. I build RAG applications, Python APIs and machine learning models, and I like measuring whether a retrieval change actually made things better. Currently looking for AI/ML, backend and Generative AI roles.
 
-### 👨‍💻 About Me
-
-- 📊 **Expertise:**  
-  - Data Analysis & Exploration  
-  - Statistical & Predictive Modeling  
-  - Machine Learning & Deep Learning  
-  - Data Visualization & Business Intelligence  
-  - Web APIs
-
-- 🛠️ **Tech Stack:**  
-  - Python (Pandas, NumPy, Scikit-learn, TensorFlow, Flask, Matplotlib, Seaborn)  
-  - SQL, C  
-  - Power BI, Tableau, MS Excel  
-  - Node.js, RESTful APIs  
-  - MySQL, PostgreSQL  
-  - HTML, CSS  
-  - Git, GitHub
-
-- 🎓 **Education:**  
-  - B.E. Computer Engineering, Mumbai University (Terna Engineering College), CGPA: 6.96 / 10
-  - HSC, Science (VPM’s B.N. Bandodkar College of Science, Thane, 82.33%)
-  - SSC (Shree Mavli Mandal High School, Thane, 79.00%)
-
-- 🌟 **Values:**  
-  - Curiosity-driven problem solving  
-  - Communicating insights with clarity  
-  - Continuous learning and growth
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamdhanawade)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanawadepratham@gmail.com)
 
 ---
 
-### 💡 What I Do
+## 🚀 Featured Project
 
-- **Data Storytelling:** Presenting findings in a clear, compelling way to drive strategic decisions.
-- **Predictive Analytics:** Building models that forecast trends and outcomes.
-- **Business Intelligence:** Creating dashboards that empower organizations to make data-driven choices.
-- **Web APIs:** Building RESTful interfaces for data projects.
+### [ContextOS](https://github.com/PrathamDhanawade/Contextos) – AI-Powered RAG & Context Platform
 
----
+An end-to-end platform for chatting over PDFs with retrieval, long-term memory and a knowledge graph.
 
-### 📈 Featured Projects
+- **RAG pipeline:** PDF ingestion, chunking and semantic retrieval, with answers shown next to the passages, memories and graph relationships behind them
+- **768-d embeddings** from `all-mpnet-base-v2`, stored in Supabase / pgvector
+- **Long-term memory:** newer facts supersede older ones instead of piling up duplicates
+- **Knowledge graph:** entity and relationship extraction, explored in React Flow
+- **MCP server:** a `search_context` tool so agents like Claude can query the same context
 
-- **Movie Recommendation Website:**  
-  Developed a RESTful API with Node.js to manage, clean, and analyze movie/user data. Integrated The Movie Database API for recommendations, implemented OAuth/JWT for secure access, and designed data cleaning pipelines.
+I compared three retrieval strategies on a 9-query evaluation set. Hybrid retrieval raised Recall@1 from 77.8% to 88.9%. The cross-encoder reranker added latency without improving the numbers on this set.
 
-- **Sign Language to Speech Conversion Website:**  
-  Built a gesture-recognition ML model using Python and TensorFlow, implemented multilingual text-to-speech, and created a web interface to convert gestures into spoken output.
+| Strategy | Recall@1 | MRR | Latency |
+| --- | ---: | ---: | ---: |
+| Vector | 77.8% | 88.9% | ~738 ms |
+| Hybrid RRF | **88.9%** | **94.4%** | ~863 ms |
+| Hybrid + Reranker | 88.9% | 94.4% | ~3144 ms |
 
-- **Disaster Destruction-Level Prediction (Satellite Imagery):**  
-  Created a TensorFlow model to predict damage levels from satellite images, served predictions via Flask, and processed imagery to assist disaster response.
-
-- **Power BI Dashboards for Fleet Management:**  
-  Built interactive Power BI dashboards to visualize vehicle performance, maintenance schedules, and operational costs, backed by a Flask service for data ingestion and transformation.
-
----
-
-### 📜 Certification
-
-- **Advance Diploma in Data Science and Data Analytics**  
-  Squad Infotech, Thane  
-  [Certificate Link](#)
+`Python` `FastAPI` `pgvector` `Supabase` `Groq` `React` `MCP`
 
 ---
 
-### 🌐 Languages
+## 🛠️ Other Projects
 
-- Hindi
-- English
-- Marathi
+**Automated Stock Market Video Generation Workflow**
+Automated pipeline that pulls stock market data from a website and fills a predefined After Effects template. It produces videos for five stocks and handles rendering and file organization, which removes repetitive manual editing.
+`Python` `After Effects` `APIs` `Workflow Automation`
 
----
-
-### 🌐 Connect With Me
-
-- [LinkedIn](https://linkedin.com/in/prathamdhanawade)
-- [GitHub](https://github.com/PrathamDhanawade)
-- Email: dhanawadepratham@gmail.com
-- Location: Thane (W), Maharashtra, India
+**Sign Language to Speech Conversion Website**
+A gesture-recognition model built with Python and TensorFlow, with data preprocessing, training and evaluation. Recognized gestures are converted into spoken output through multilingual text-to-speech, behind a web interface.
+`Python` `TensorFlow`
 
 ---
 
-### 📫 Let's Collaborate!
+## 💼 Experience
 
-I'm always open to new challenges and collaborations. If you're interested in working together, discussing data, or just want to say hello, feel free to reach out!
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathamDhanawade&show_icons=true&hide_title=true" alt="Pratham's GitHub Stats" />
-</p>
+**Junior AI Automation & Media Specialist** · RangaOne Finance · Thane · Jul 2026 – Sep 2026
+Produced video content with AI-assisted generation, voiceovers and editing tools, and explored Python scripting and automation to streamline repetitive rendering and file-handling work.
 
 ---
 
-> **"Data is the new oil, but insight is the engine."**
+## 🧰 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+| | |
+| --- | --- |
+| **Languages** | Python, TypeScript, JavaScript, SQL, C |
+| **ML & AI** | RAG, Agentic AI, LangChain, LangGraph, TensorFlow, Computer Vision, Model Evaluation |
+| **Backend & APIs** | FastAPI, Flask, Node.js, Express.js, REST APIs |
+| **Databases** | PostgreSQL / pgvector, MongoDB, Supabase, MySQL |
+| **Web** | React, HTML, CSS (working knowledge of the MERN stack) |
+| **Tools** | Git, GitHub |
+
+---
+
+## 🎓 Education & Certification
+
+- **B.E. Computer Engineering**, Terna Engineering College, Mumbai University (2021 – 2025)
+- **Advanced Diploma in Data Science and Data Analytics**, Squad Infotech, Thane (2023 – 2024)
+
+**Languages:** Marathi, Hindi, English
+
+---
+
+## 📫 Let's Connect
+
+I'm open to AI/ML, backend and Generative AI roles and to collaboration on RAG and LLM projects. The quickest way to reach me is [LinkedIn](https://linkedin.com/in/prathamdhanawade) or [email](mailto:dhanawadepratham@gmail.com).
