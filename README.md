@@ -3,6 +3,7 @@
 ![Data Science Banner](japanese-artwork-8-bit-3840x2160-21386.jpg)
 
 # Hi, I'm Pratham Dhanawade 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/PrathamDhanawade&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/PrathamDhanawade" /> </p>
 
 **AI/ML Engineer · Backend & AI Systems · Generative AI**
 
